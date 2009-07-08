@@ -1,4 +1,4 @@
-#import <NSObject.h>
+#import <Foundation/Foundation.h>
 
 @class CTPhoneNumber, NSDate, NSDictionary, NSMutableArray, NSMutableDictionary, NSObject<CTMessageAddress><NSCopying>, NSString;
 
